@@ -1,7 +1,7 @@
 ---
 title:  "Snake Game"
 date:   2024-04-01 09:26:00 +00:00
-image: /publications/images/Snake_Game.png
+image: /publications/images/Snake_Game_thumbnail.png
 image_onhover: /publications/images/project-image-on-hover.jpg
 author: ""
 authors: ""
