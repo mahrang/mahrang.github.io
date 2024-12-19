@@ -14,4 +14,4 @@ bib: |
     year = {2021}
   }
 ---
-Brief description of the project.
+Added poisonous food and multithreading to a video game and optimized its memory management.
