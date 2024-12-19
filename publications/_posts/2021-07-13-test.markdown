@@ -5,7 +5,7 @@ image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image-on-hover.jpg
 author: ""
 authors: ""
-venue: ""
+venue: "April"
 bib: |
   @article{Doe2021,
     author = {Doe J.},
