@@ -5,7 +5,7 @@ image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image-on-hover.jpg
 author: ""
 authors: ""
-venue: ""
+venue: "September"
 links:
   code: https://github.com/mahrang/Concurrent-Traffic-Simulation
 ---
