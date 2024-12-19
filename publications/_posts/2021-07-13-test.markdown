@@ -6,12 +6,7 @@ image_onhover: /publications/images/project-image-on-hover.jpg
 author: ""
 authors: ""
 venue: "April"
-bib: |
-  @article{Doe2021,
-    author = {Doe J.},
-    journal = {A journal of imaginary research},
-    title = {Title of the publication},
-    year = {2021}
-  }
+links:
+  code: https://github.com/mahrang/Snake-Game
 ---
 Added poisonous food and multithreading to a video game and optimized its memory management.
