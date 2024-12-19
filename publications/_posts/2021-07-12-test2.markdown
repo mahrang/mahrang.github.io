@@ -7,6 +7,6 @@ author: ""
 authors: ""
 venue: ""
 links:
-  code: https://github.com/vsimkus/academic-jekyll
+  code: https://github.com/mahrang/Concurrent-Traffic-Simulation
 ---
 Built a traffic simulation where vehicles move concurrently along streets with traffic lights using multithreading.
