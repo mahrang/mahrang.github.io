@@ -2,7 +2,7 @@
 title:  "Real-Time Multiple Object Detection Using YOLOv3"
 date:   2019-05-01 09:26:00 +00:00
 image: /publications/images/Still_From_Video_thumbnail.png
-image_onhover: /publications/images/Paris_thumbnail.png
+image_onhover: /publications/images/Door_thumbnail.png
 author: ""
 authors: ""
 venue: "May"
