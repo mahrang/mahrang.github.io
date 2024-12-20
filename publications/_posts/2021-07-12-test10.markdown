@@ -1,12 +1,12 @@
 ---
-title:  "Concurrent Traffic Simulation"
-date:   2023-09-01 09:26:00 +00:00
+title:  "E-Nose For Gas Recognition"
+date:   2019-05-01 09:26:00 +00:00
 image: /publications/images/NYC_thumbnail.png
 image_onhover: /publications/images/Paris_thumbnail.png
 author: ""
 authors: ""
-venue: "September"
+venue: "May"
 links:
-  code: https://github.com/mahrang/Concurrent-Traffic-Simulation
+  code: https://github.com/mahrang/E-Nose-For-Gas-Recognition
 ---
-Built a traffic simulation where vehicles move concurrently along streets with traffic lights using multithreading.
+Built Logistic Regression, K-Nearest Neighbors, and Random Forest classifiers to classify 6 gases.
