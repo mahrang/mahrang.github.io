@@ -1,12 +1,12 @@
 ---
-title:  "Concurrent Traffic Simulation"
-date:   2023-09-01 09:26:00 +00:00
+title:  "OpenStreetMap Route Planner"
+date:   2022-10-01 09:26:00 +00:00
 image: /publications/images/NYC_thumbnail.png
 image_onhover: /publications/images/Paris_thumbnail.png
 author: ""
 authors: ""
-venue: "September"
+venue: "October"
 links:
-  code: https://github.com/mahrang/Concurrent-Traffic-Simulation
+  code: https://github.com/mahrang/OpenStreetMap-Route-Planner
 ---
-Built a traffic simulation where vehicles move concurrently along streets with traffic lights using multithreading.
+Built a route planner that plots a path between 2 points on a map using A* search algorithm.
