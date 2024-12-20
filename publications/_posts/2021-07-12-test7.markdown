@@ -1,12 +1,13 @@
 ---
-title:  "Concurrent Traffic Simulation"
-date:   2023-09-01 09:26:00 +00:00
+title:  "EMG Hand Gesture Recognition For Human-Machine Interaction"
+date:   2019-12-01 09:26:00 +00:00
 image: /publications/images/NYC_thumbnail.png
 image_onhover: /publications/images/Paris_thumbnail.png
 author: ""
 authors: ""
-venue: "September"
+venue: "December"
 links:
-  code: https://github.com/mahrang/Concurrent-Traffic-Simulation
+  code: https://github.com/mahrang/EMG-Hand-Gesture-Recognition-For-Human-Machine-Interaction
 ---
-Built a traffic simulation where vehicles move concurrently along streets with traffic lights using multithreading.
+Preprocessed electromyography (EMG) signals to extract high-frequency EMG and eliminate noise.
+Built a Random Forest classifier to classify 5 hand gestures from EMG signals with 97% accuracy.  
