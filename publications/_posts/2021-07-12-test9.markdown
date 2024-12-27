@@ -9,4 +9,4 @@ venue: "May"
 links:
   code: https://github.com/mahrang/Real-Time-Handwritten-Multi-Digit-Recognition
 ---
-Found contours in video frames to localize digits, then classified digits using a multilayer perceptron (MLP).
+Found contours in video frames to localize digits, then classified digits using a MLP.
