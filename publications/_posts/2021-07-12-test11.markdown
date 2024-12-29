@@ -8,5 +8,6 @@ authors: ""
 venue: "December"
 links:
   code: https://github.com/mahrang/CIFAR-10-Image-Classification
+skills: "Python"
 ---
 Built a MLP to classify objects in CIFAR-10 dataset using optimal number of neurons in hidden layer.
