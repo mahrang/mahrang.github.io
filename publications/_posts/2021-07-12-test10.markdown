@@ -8,5 +8,6 @@ authors: ""
 venue: "May"
 links:
   code: https://github.com/mahrang/E-Nose-For-Gas-Recognition
+skills: "Python"
 ---
 Built Logistic Regression, K-Nearest Neighbors, and Random Forest classifiers to classify 6 gases.
