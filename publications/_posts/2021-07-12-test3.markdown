@@ -8,5 +8,6 @@ authors: ""
 venue: "July"
 links:
   code: https://github.com/mahrang/Memory-Management-Chatbot
+skills: "C++"
 ---
 Optimized a chatbot program’s memory management using smart pointers and move semantics.
