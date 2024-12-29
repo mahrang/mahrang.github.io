@@ -8,5 +8,6 @@ authors: ""
 venue: "December"
 links:
   code: https://github.com/mahrang/Face-Swap
+skills: "C++"
 ---
 Resized and superimposed a skull onto faces detected in images using a Haar cascade classifier.
