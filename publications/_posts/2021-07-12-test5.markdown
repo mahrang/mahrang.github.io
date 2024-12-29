@@ -8,5 +8,6 @@ authors: ""
 venue: "October"
 links:
   code: https://github.com/mahrang/OpenStreetMap-Route-Planner
+skills: "C++"
 ---
 Built a route planner that plots a path between 2 points on a map using A* search algorithm.
