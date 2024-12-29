@@ -8,5 +8,6 @@ authors: ""
 venue: "December"
 links:
   code: https://github.com/mahrang/System-Monitor
+skills: "C++"
 ---
 Built a process manager for Linux to display system, CPU, memory, and processes data.
