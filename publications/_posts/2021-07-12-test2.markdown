@@ -1,8 +1,8 @@
 ---
 title:  "Concurrent Traffic Simulation"
 date:   2023-09-01 09:26:00 +00:00
-image: /publications/images/NYC_thumbnail.png
-image_onhover: /publications/images/Paris_thumbnail.png
+image: /publications/images/Paris_thumbnail.png
+image_onhover: /publications/images/NYC_thumbnail.png
 author: ""
 authors: ""
 venue: "September"
