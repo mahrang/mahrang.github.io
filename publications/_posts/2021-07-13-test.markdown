@@ -8,6 +8,6 @@ authors: ""
 venue: "April"
 links:
   code: https://github.com/mahrang/Snake-Game
+skills: "C++"
 ---
-C++
 Added poisonous food and multithreading to a video game and optimized its memory management.
