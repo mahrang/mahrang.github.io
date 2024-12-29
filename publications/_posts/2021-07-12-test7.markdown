@@ -8,6 +8,7 @@ authors: ""
 venue: "December"
 links:
   code: https://github.com/mahrang/EMG-Hand-Gesture-Recognition-For-Human-Machine-Interaction
+skills: "Python"
 ---
 Preprocessed electromyography (EMG) signals to extract high-frequency EMG and eliminate noise.
 Built a Random Forest classifier to classify 5 hand gestures from EMG signals with 97% accuracy.  
