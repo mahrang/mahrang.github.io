@@ -2,7 +2,7 @@
 title:  "EMG Hand Gesture Recognition For Human-Machine Interaction"
 date:   2019-12-01 09:26:00 +00:00
 image: /publications/images/Hand_gestures_thumbnail.png
-image_onhover: /publications/images/Hand_gestures_thumbnail.png
+image_onhover: /publications/images/preprocessing_thumbnail.png
 author: ""
 authors: ""
 venue: "December"
