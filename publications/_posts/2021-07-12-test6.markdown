@@ -1,8 +1,8 @@
 ---
 title:  "Face Swap"
 date:   2021-12-01 09:26:00 +00:00
-image: /publications/images/skulls_in_monica_vincent_thumbnail.png
-image_onhover: /publications/images/skulls_in_wicked_thumbnail.png
+image: /publications/images/skulls_in_monica_matt_thumbnail.png
+image_onhover: /publications/images/skulls_in_monica_vincent_thumbnail.png
 author: ""
 authors: ""
 venue: "December"
