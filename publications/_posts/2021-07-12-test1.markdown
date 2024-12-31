@@ -1,8 +1,8 @@
 ---
 title:  "Snake Game"
 date:   2024-04-01 09:26:00 +00:00
-image: /publications/images/Snake_Game_thumbnail.png
-image_onhover: /publications/images/Snake_Game2_thumbnail.png
+image: /publications/images/Snake_Game4_thumbnail.png
+image_onhover: /publications/images/Snake_Game5_thumbnail.png
 author: ""
 authors: ""
 venue: "April"
