@@ -10,4 +10,5 @@ links:
   code: https://github.com/mahrang/Real-Time-Handwritten-Multi-Digit-Recognition
 skills: "Python"
 ---
-Found contours in video frames to localize digits, then classified digits using a MLP.
+Trained a MLP on MNIST dataset to classify handwritten digits.  Binarized frames using thresholding and dilated digits to find contours in preprocessing to localize digits.
+
