@@ -10,4 +10,4 @@ links:
   code: https://github.com/mahrang/Concurrent-Traffic-Simulation
 skills: "C++"
 ---
-Built a traffic simulation where vehicles move concurrently along streets with traffic lights using multithreading.
+Built a traffic simulation where vehicles move along streets using concurrency and multithreading.
