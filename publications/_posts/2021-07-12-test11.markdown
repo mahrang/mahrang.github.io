@@ -1,8 +1,8 @@
 ---
 title:  "Human Protein Atlas Image Classification"
 date:   2018-12-02 09:26:00 +00:00
-image: /publications/images/Image-of-Each-Class_thumbnail.png
-image_onhover: /publications/images/Plot_thumbnail.png
+image: /publications/images/protein1_thumbnail.png
+image_onhover: /publications/images/protein2_thumbnail.png
 author: ""
 authors: ""
 venue: "December"
