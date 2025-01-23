@@ -1,13 +1,13 @@
 ---
-title:  "CIFAR-10 Image Classification"
-date:   2018-12-01 09:26:00 +00:00
+title:  "Human Protein Atlas Image Classification"
+date:   2018-12-02 09:26:00 +00:00
 image: /publications/images/Image-of-Each-Class_thumbnail.png
 image_onhover: /publications/images/Plot_thumbnail.png
 author: ""
 authors: ""
 venue: "December"
 links:
-  code: https://github.com/mahrang/CIFAR-10-Image-Classification
+  code: https://github.com/mahrang/Human-Protein-Atlas-Image-Classification
 skills: "Python"
 ---
-Built a MLP to classify objects in CIFAR-10 dataset using optimal number of neurons in hidden layer.
+Trained a CNN to classify mixed patterns of proteins in human cells in microscope images.
