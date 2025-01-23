@@ -1,0 +1,13 @@
+---
+title:  "CIFAR-10 Image Classification"
+date:   2018-12-01 09:26:00 +00:00
+image: /publications/images/Image-of-Each-Class_thumbnail.png
+image_onhover: /publications/images/Plot_thumbnail.png
+author: ""
+authors: ""
+venue: "December"
+links:
+  code: https://github.com/mahrang/CIFAR-10-Image-Classification
+skills: "Python"
+---
+Built a MLP to classify objects in CIFAR-10 dataset using optimal number of neurons in hidden layer.
