@@ -10,4 +10,4 @@ links:
   code: https://github.com/mahrang/OpenStreetMap-Route-Planner
 skills: "C++"
 ---
-Built a route planner that plots a path between 2 points on a map using A* search algorithm.
+Built a route planner that plots the shortest path between 2 points on a map using A* search algorithm.
