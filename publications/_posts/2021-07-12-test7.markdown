@@ -1,5 +1,5 @@
 ---
-title:  "EMG Hand Gesture Recognition For Human-Machine Interaction"
+title:  "EMG Hand Gesture Recognition For Human Computer Interaction"
 date:   2019-12-01 09:26:00 +00:00
 image: /publications/images/Hand_gestures_thumbnail.png
 image_onhover: /publications/images/preprocessing_thumbnail.png
@@ -7,7 +7,7 @@ author: ""
 authors: ""
 venue: "December"
 links:
-  code: https://github.com/mahrang/EMG-Hand-Gesture-Recognition-For-Human-Machine-Interaction
+  code: https://github.com/mahrang/EMG-Hand-Gesture-Recognition-For-Human-Computer-Interaction
 skills: "Python"
 ---
 Preprocessed electromyography (EMG) signals to extract high-frequency EMG and eliminate noise.
