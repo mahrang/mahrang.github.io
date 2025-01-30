@@ -10,4 +10,4 @@ links:
   code: https://github.com/mahrang/Snake-Game
 skills: "C++"
 ---
-Added poisonous food and multithreading to a video game and optimized its memory management.
+Handled user input, updated outputs, and rendered the graphics of a video game.
