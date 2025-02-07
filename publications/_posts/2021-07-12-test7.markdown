@@ -1,5 +1,5 @@
 ---
-title:  "EMG Hand Gesture Recognition For Human Computer Interaction"
+title:  "EMG Hand Gesture Recognition For Human-Computer Interaction"
 date:   2019-12-01 09:26:00 +00:00
 image: /publications/images/Hand_gestures_thumbnail.png
 image_onhover: /publications/images/preprocessing_thumbnail.png
