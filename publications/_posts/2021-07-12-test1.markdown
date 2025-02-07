@@ -10,4 +10,4 @@ links:
   code: https://github.com/mahrang/Snake-Game
 skills: "C++"
 ---
-Built a controller to handle user input to control a snake and a renderer to visualize graphics.
+Built a game engine loop with a controller, an update stage, and a renderer to visualize graphics.
