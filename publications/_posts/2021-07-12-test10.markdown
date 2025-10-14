@@ -11,3 +11,4 @@ links:
 skills: "Python"
 ---
 Built Logistic Regression, K-Nearest Neighbors, and Random Forest classifiers to classify 6 gases.
+Visualized data using PCA to show the presence of drift in gas sensors over the span of 3 years.
