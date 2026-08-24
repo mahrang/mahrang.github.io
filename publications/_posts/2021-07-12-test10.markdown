@@ -10,5 +10,6 @@ links:
   code: https://github.com/mahrang/E-Nose-For-Gas-Recognition
 skills: "Python"
 ---
-Built Logistic Regression, K-Nearest Neighbors, and Random Forest classifiers to classify 6 gases.
 Visualized data using PCA to show the presence of drift in gas sensors over the span of 3 years.
+Built Logistic Regression, K-Nearest Neighbors, and Random Forest classifiers to classify 6 gases.
+Evaluated performance of classifiers using Precision, Recall, Accuracy, Confusion Matrix, and ROC curve.
