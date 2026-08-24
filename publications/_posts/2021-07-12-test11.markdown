@@ -11,3 +11,4 @@ links:
 skills: "Python"
 ---
 Trained a CNN to classify mixed patterns of proteins in human cells in microscope images.
+Integrated a pre-trained Inception-ResNet-v2 CNN model into new model to extract features.
