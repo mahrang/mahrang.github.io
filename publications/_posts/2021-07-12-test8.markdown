@@ -11,4 +11,4 @@ links:
 skills: "Python"
 ---
 Trained YOLOv3 model on COCO dataset to detect objects in an urban environment.
-Built a labeled dataset of door images using BBox Label Tool.  Trained YOLOv3 on door dataset to detect doors. 
+Built a labeled dataset of door images using BBox Label Tool.  Trained YOLOv3 on dataset to detect doors. 
